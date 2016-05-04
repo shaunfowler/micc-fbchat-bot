@@ -1,0 +1,28 @@
+{
+  "name": "micc-fbchat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunfowler/micc-fbchat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunfowler/micc-fbchat-bot/issues"
+  },
+  "homepage": "https://github.com/shaunfowler/micc-fbchat-bot#readme",
+  "dependencies": {
+    "messenger-bot": "^2.2.0",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "ngrok": "^2.1.8"
+  }
+}
