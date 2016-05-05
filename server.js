@@ -3,9 +3,9 @@ var Bot = require('messenger-bot');
 var request = require('request');
 
 var settings = {
-    botToken: 'EAAOQrE66WSEBALR9IOtsDk9XCyj2rCk7nrDIMZCBuqiGBQQTOHhZB1NSdQd0gOy7K3cNCkZBWsmA5QDbTZADKmQBmGxuFg5S2GtJMSXds6v3lDLvAr52DDGsVZAQ5N5JLHFJWUFUZBFeBttOmr0puJlEGAMnSuqwuVBiHiYarIbLHUaDbYdQjm',
+    botToken: 'EAASBxKFZBghoBAJyXxFdd69SIa00oNGOr0ZAJ9yiUPvt0DCxHxIu07OuQOmhxGXMNs4i3GDZBXVqxPsyUQMxpHAZAZANG5LKRbnvZCGM1sSS7XnrklIYZAENxz40h3aqLYFjjXrdMYewMtVZAlWXlSKsPZB57ZBPVAt8D4cQUFfPWnxwZDZD',
     botVerify: 'secretverificationtoken',
-    pageId: 'WickedTix-1703396403208122', // from the URL
+    pageId: 'MiCCWickedTix',
     openMediaQueueGuid: '809b7e0d-2bec-4be2-9ad0-676771dd389b',
     miccHostName: 'innovate.micccloud.com'
 }
